@@ -2,34 +2,42 @@
    "files": [
       {
          "filename": "customers",
+         "foldername": "customers",
          "filepath": "jeetendrak1987/datasets/refs/heads/main/customers.csv"
       },
       {
          "filename": "employees",
+         "foldername": "employees",
          "filepath": "jeetendrak1987/datasets/refs/heads/main/employees.csv"
       },
       {
          "filename": "offices",
+         "foldername": "offices",
          "filepath": "jeetendrak1987/datasets/refs/heads/main/offices.csv"
       },
       {
          "filename": "orderdetails",
+         "foldername": "orderdetails",
          "filepath": "jeetendrak1987/datasets/refs/heads/main/orderdetails.csv"
       },
       {
          "filename": "orders",
+         "foldername": "orders",
          "filepath": "jeetendrak1987/datasets/refs/heads/main/orders.csv"
       },
       {
          "filename": "payments",
+         "foldername": "payments",
          "filepath": "jeetendrak1987/datasets/refs/heads/main/payments.csv"
       },
       {
          "filename": "productlines",
+         "foldername": "productlines",
          "filepath": "jeetendrak1987/datasets/refs/heads/main/productlines.csv"
       },
       {
          "filename": "products",
+         "foldername": "products",
          "filepath": "jeetendrak1987/datasets/refs/heads/main/products.csv"
       }
    ]
