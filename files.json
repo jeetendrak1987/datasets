@@ -1,0 +1,40 @@
+{
+   "files": [
+      {
+         "filename": "customers",
+         "filepath": "jeetendrak1987/datasets/refs/heads/main/customers.csv"
+      },
+      {
+         "filename": "employees",
+         "filepath": "jeetendrak1987/datasets/refs/heads/main/employees.csv"
+      },
+      {
+         "filename": "offices",
+         "filepath": "jeetendrak1987/datasets/refs/heads/main/offices.csv"
+      },
+      {
+         "filename": "orderdetails",
+         "filepath": "jeetendrak1987/datasets/refs/heads/main/orderdetails.csv"
+      },
+      {
+         "filename": "orders",
+         "filepath": "jeetendrak1987/datasets/refs/heads/main/orders.csv"
+      },
+      {
+         "filename": "payments",
+         "filepath": "jeetendrak1987/datasets/refs/heads/main/payments.csv"
+      },
+      {
+         "filename": "productlines",
+         "filepath": "jeetendrak1987/datasets/refs/heads/main/productlines.csv"
+      },
+      {
+         "filename": "products",
+         "filepath": "jeetendrak1987/datasets/refs/heads/main/products.csv"
+      }
+   ]
+}
+
+
+
+
